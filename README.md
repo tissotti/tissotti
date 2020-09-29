@@ -1,16 +1,18 @@
-### Hi there 👋
+## Lucas C. Tissotti
 
-<!--
-**tissotti/tissotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student. 💻📲
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/-lucastissotti@gmail.com-9966cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucastissotti@gmail.com)](mailto:lucastissotti@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-lctissotti-9966cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lctissotti/)](https://www.instagram.com/lctissotti/)
+
+
+Passionate about new technologies. Always open to new challenges and ready to face changes.
+
+### "If you can dream it, you can do it."
+
+
+- 🏤Federal University of Fronteira Sul
+- 📍  From RS living in SC 🇧🇷
+
+
