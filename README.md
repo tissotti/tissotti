@@ -4,7 +4,6 @@ I'm a Computer Science student. 💻📲
 
 
 [![Gmail Badge](https://img.shields.io/badge/-lucastissotti@gmail.com-9966cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucastissotti@gmail.com)](mailto:lucastissotti@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-lctissotti-9966cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lctissotti/)](https://www.instagram.com/lctissotti/)
 
 
 Passionate about new technologies. Always open to new challenges and ready to face changes.
